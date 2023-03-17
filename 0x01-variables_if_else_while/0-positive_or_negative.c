@@ -1,8 +1,8 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-/** more headers go there
- * main -entry point
+/**
+ * main -Determine if a number is positive, zero or negative
  *
  * Return: Alyways 0 (success)
  */
@@ -22,7 +22,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is nagative\n", n);
+		printf("%d is negative\n", n);
 	}
 return (0);
 }
