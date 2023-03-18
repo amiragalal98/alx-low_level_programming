@@ -1,11 +1,12 @@
-<h1 align="center" color="red">Betty</h1>
+<h1 align="center" bg-color="red">Betty</h1>
 -----------
 <h3 align="center">Betty is coding style inspired by Linux Kernal Coding style.</h3>
-consistency
-makes your code nice
-your code will make more sence.
-easy to understand
-
+<ul align="center">
+  <li>consistency</li>
+  <li>makes your code nice</li>
+  <li>your code will make more sence.</li>
+  <li>easy to understand</li>
+</ul>
 Installing Betty
 ________________
 1. go to Betty repo (https://github.com/holbertonschool/Betty/wiki)
