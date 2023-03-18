@@ -1,4 +1,19 @@
 
+<h1 align="center">0x00. C - Hello, World</h1>
+<h3>Learning Objectives</h3>
+<ul>
+<li>Why C programming</li>
+<li>How to compile using gcc</li>
+<li>What is main</li>
+<li>How to print text using printf, puts and putchar</li>
+<li>How to get the size of a specific type using the unary operator sizeof</li>
+<li>What is the official C coding style and how to check your code with betty-style</li>
+</ul>
+
+
+
+
+
 
 <h1 align="center" >Betty</h1>
 
