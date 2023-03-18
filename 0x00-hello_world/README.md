@@ -1,4 +1,13 @@
-<h1 align="center" style="color:red">Betty</h1>
+<style>
+  h1 {
+  text-align: center;
+  text-transform: uppercase;
+  color: #4CAF50;
+}
+
+  </style>
+
+<h1 align="center" >Betty</h1>
 
 <h3 align="center">Betty is coding style inspired by Linux Kernal Coding style.</h3>
 <ul>
