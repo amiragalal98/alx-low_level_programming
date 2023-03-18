@@ -72,5 +72,32 @@
 betty <file_name.c>
 <h4>Example</h4>
 betty Hello_world.c
+
+
+
+
+
+
+
+
+
+
+<table>
+  <tr>
+    <th>Task Number</th>
+    <th>Description</th>
+    
+  </tr>
+  <tr>
+    <td>0. Preprocessor</td>
+    <td> script  runs a C file through the preprocessor and save the result into another file  in variable $CFILE</td>
+    
+  </tr>
+  <tr>
+    <td>1. Compiler</td>
+    <td>script that compiles a C file but does not link.The output file with the extension .o instead of .c</td>
+   
+  </tr>
+</table>
   </body>
   </html>
