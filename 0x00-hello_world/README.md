@@ -1,4 +1,4 @@
-Betty
+<h1 align="center">Betty</h1>
 -----------
 Betty is coding style inspired by Linux Kernal Coding style.
 consistency
