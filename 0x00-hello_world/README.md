@@ -36,23 +36,7 @@
 
 
 
-<table>
-  <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
-  </tr>
-  <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
-  </tr>
-  <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
-  </tr>
-</table>
+
 
 <h3 align="center">Installing Betty</h3>
 
@@ -80,7 +64,7 @@ betty Hello_world.c
 
 
 
-
+<h1 align="center">Tasks</h>
 
 <table>
   <tr>
@@ -89,15 +73,41 @@ betty Hello_world.c
     
   </tr>
   <tr>
-    <td>0. Preprocessor</td>
-    <td> script  runs a C file through the preprocessor and save the result into another file  in variable $CFILE</td>
-    
+    <td>0.Preprocessor</td>
+    <td> script  runs a C file through the preprocessor and save the result into another file  in variable $CFILE</td
   </tr>
   <tr>
-    <td>1. Compiler</td>
+    <td>1.Compiler</td>
     <td>script that compiles a C file but does not link.The output file with the extension .o instead of .c</td>
-   
   </tr>
+      <tr>
+        <td>2-assembler</td>
+        <td>script generates the assembly code of a C code and save it in an output file the extension .s instead of .c</td>
+      </tr>
+      <tr>
+        <td>3-name</td>
+        <td> script compiles a C file and creates an executable named cisfun, in the variable $CFILE</td>
+      </tr>
+      <tr>
+       <td>4-puts.c</td>
+       <td>C program that prints using function puts</td>
+      </tr>
+      <tr>
+       <td>5-printf.c</td>
+       <td>C program that prints using function printf</td>
+      </tr>
+      <tr>
+       <td>6-size.c</td>
+       <td>C program that prints the size of various types on the computer it is compiled and run on.</td>
+      </tr>
+      <tr>
+       <td>100-intel</td>
+       <td>script generates the assembly code (Intel syntax)</td>
+      </tr>
+       <tr>
+       <td>101-quote.c</td>
+       <td>C program that prints using write function</td>
+      </tr>
 </table>
   </body>
   </html>
