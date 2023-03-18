@@ -7,7 +7,7 @@
   <li>your code will make more sence.</li>
   <li>easy to understand</li>
 </ul>
-Installing Betty
+<h3 align="center">Installing Betty</h3>
 ________________
 1. go to Betty repo (https://github.com/holbertonschool/Betty/wiki)
 2.git clone the REPO
