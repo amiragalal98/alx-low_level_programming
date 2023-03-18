@@ -41,7 +41,7 @@ int main(void)
 			}
 			g++;
 		}
-		h++
+		h++;
 	}
 	putchar('\n');
 	return (0);
