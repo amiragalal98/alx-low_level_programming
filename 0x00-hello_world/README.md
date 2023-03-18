@@ -1,6 +1,6 @@
 
-<title>repo requirement</title>
-<h1 align="center" color="red" >Betty</h1>
+
+<h1 align="center" color="#660000" >Betty</h1>
 
 <h3 align="center">Betty is coding style inspired by Linux Kernal Coding style.</h3>
 <ul>
