@@ -1,12 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
 <style>
-  h1 {
+
+h1 {
   text-align: center;
   text-transform: uppercase;
   color: #4CAF50;
 }
 
-  </style>
 
+</style>
+</head>
+<body>
+
+
+  <h1>text formatting</h1>
+  <p>This text is styled with some of the text formatting properties. The heading uses the text-align, text-transform, and color properties.
+  The paragraph is indented, aligned, and the space between characters is specified. The underline is removed from this colored
+  <a target="_blank" href="tryit.asp?filename=trycss_text">"Try it Yourself"</a> link.</p>
+</div>
+
+</body>
+</html>
 <h1 align="center" >Betty</h1>
 
 <h3 align="center">Betty is coding style inspired by Linux Kernal Coding style.</h3>
@@ -16,6 +32,7 @@
   <li>your code will make more sence.</li>
   <li>easy to understand</li>
 </ul>
+</body>
 <h3 align="center">Installing Betty</h3>
 
 <ul>
