@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>repo requirement</title>
-</head>
-<body>
 
-<h1 align="center" style="color:red;" >Betty</h1>
+<title>repo requirement</title>
+<h1 align="center" color="red" >Betty</h1>
 
 <h3 align="center">Betty is coding style inspired by Linux Kernal Coding style.</h3>
 <ul>
