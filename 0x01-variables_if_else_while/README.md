@@ -8,12 +8,12 @@
 <table>
 <tr>
 <td>0-positive_or_negative.c</td>
-<td>understand what rand, srand, RAND_MAX</td>
+<td>program will assign a random number to the variable n, understand what rand, srand, RAND_MAX</td>
 </tr>
 
 <tr>
 <td>1-last_digit.c</td>
-<td>understand what rand, srand, RAND_MAX</td>
+<td>program will assign a random number to the variable n, understand what rand, srand, RAND_MAX</td>
 </tr>
 
 <tr>
