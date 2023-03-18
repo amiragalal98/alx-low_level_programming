@@ -1,4 +1,4 @@
-<h1 align="center" bg-color="red">Betty</h1>
+<h1 align="center" style="color:red">Betty</h1>
 
 <h3 align="center">Betty is coding style inspired by Linux Kernal Coding style.</h3>
 <ul>
