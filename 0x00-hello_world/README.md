@@ -13,6 +13,13 @@
 
 
 
+<h3>Requirements</h3>
+<ul>
+  <li>Allowed editors: vi, vim, emacs</li>
+  <li>All your files will be compiled on Ubuntu 20.04 LTS using gcc</li>
+  <li>Your code should use the Betty style. </li>
+
+</ul>
 
 
 <h1 align="center" >Betty</h1>
