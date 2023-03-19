@@ -4,16 +4,14 @@ GCC is a toolchain that compiles code, links it with any library dependencies, c
 <h2>When you run GCC on a source code file</h2>
 <ul>
   <li>It first uses a preprocessor to include header files and discard comments.(Preprocessing)</li>
-  
   <p>gcc -E name_of_file -o new_name</p>
+  <br>
   <li>Next, it tokenizes the code, expands macros, detects any compile-time issues, then prepares it for compilation. It is then sent to the compiler.(Actual Compilation)</li>
   <p>gcc -c name_of_file -o new_name.o</p>
   <li>Generate assembly code.(Assembly) </li>
   <p>gcc -S name_of_file -o new_name.s </p>
-  <li>The assembler then converts this code into the binary executable format of the system.(Linking)</li>
-  <li>Then execute file on the target system.</li>
-  <p>gcc name_of_file -o new_name.exe
+  <li>The assembler then converts this code into the binary executable format of the system(Linking)</li>
+  <p>gcc name_of_file -o new_name.exe </p>
   </ul>
   
-  <h2>GCC examples</h2>
-  command:gcc hello.c -o hello         -->this command processes the hello.c file and generates a binary called “hello”. 
+  
