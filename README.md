@@ -1,5 +1,5 @@
 <h1 align="center">remember that</h1>
-<2>GCC</h2>
+<h2>GCC</h2>
 GCC is a toolchain that compiles code, links it with any library dependencies, converts that code to assembly, and then prepares executable files
 <h2>When you run GCC on a source code file</h2>
 <ul>
