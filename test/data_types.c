@@ -20,7 +20,7 @@ int main(void)
 	 int intt = 2147843647; /* 4 byte (- 2,147,483,648 : +..)using %d */
 	 unsigned int uint = 4294967295; /* 4 byte using %u */
 	 long long int llit = 9223372036854775807; /* 8 byte using %lld */
-	 unsigned long long int ullit = 184466174061610414141016014;
+	 unsigned long long int ullit = 184466174061610414141016014U;
 	 /* 8 byte llu */
 
 	printf("Size of int is %d bytes\n", sizeof(int));
