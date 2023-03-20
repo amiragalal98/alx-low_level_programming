@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdbool.h>
 /**
  * main -Entry point
  *
@@ -34,5 +35,6 @@ int main(void)
 	printf("Size of double is %d bytes\n", sizeof(double));
 	printf("Size of char is %d bytes\n", sizeof(char));
 	printf("Size of unsigned char is %d bytes\n", sizeof(unsigned char));
+	printf("Size of boolean is %d bytes\n", sizeof(bool));
 
 }
