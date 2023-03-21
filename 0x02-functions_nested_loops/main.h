@@ -1,6 +1,3 @@
-#ifndef main.h
-#define main.h
+#define _main_h_
 
 int _putchar(char);
-
-#endif
