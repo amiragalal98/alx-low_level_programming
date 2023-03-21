@@ -9,8 +9,8 @@ int main(void)
 	int str[] = {11, 31, 116, 14};
 	int count, size;
 
-	size = sizeof(str) / sizeof(int)
-	for (count = 0; count < sz; count++)
+	size = sizeof(str) / sizeof(int);
+	for (count = 0; count < size; count++)
 	{
 		_putchar(str[count]);
 	}
