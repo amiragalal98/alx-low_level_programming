@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
- * print_line - print staight line
- * @n: times straight line is printed
- * Return: no return void.
+ * print_line - prints straight line n times.
+ * @n: times straight line is printed.
+ * Return: no return.
  */
 void print_line(int n)
 {
@@ -12,5 +13,5 @@ void print_line(int n)
 	{
 		_putchar(95);
 	}
-	_putchar('/n');
+	_putchar('\n');
 }
